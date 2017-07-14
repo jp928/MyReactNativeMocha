@@ -1,0 +1,3 @@
+--compilers js:mocha-react-native/init
+--require test/setup.js
+--require test/mock.js
